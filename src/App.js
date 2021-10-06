@@ -67,8 +67,6 @@ function App() {
           <img src={image} alt="" />
         </div>
       }
-      <br />
-      <br />
     </div>
   );
 }
