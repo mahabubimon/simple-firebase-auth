@@ -52,6 +52,7 @@ function App() {
   return (
     <div className="App">
       <h2>Hello Bangladesh</h2>
+      <h2>Have a Good Day!</h2>
       {
         !name ?
           <div>
